@@ -6,6 +6,9 @@
     body::-webkit-scrollbar {
         width: 10px;
     }
+    body{
+        scrollbar-width: none;
+    }
     
     .a1{
         height: 520px;
